@@ -1,0 +1,19 @@
+#Wed Mar 30 12:50:33 BRT 2022
+path.4=14/classes.dex
+path.3=12/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.5=2/classes.dex
+path.0=classes.dex
+base.4=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex
+base.3=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+base.2=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.1=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=/Users/matheusmessias/Desktop/curso-react-native/Projeto3/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
